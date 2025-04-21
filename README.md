@@ -19,6 +19,8 @@
   <img src="https://github.com/user-attachments/assets/7419feec-69fd-4f00-adb0-a8892e0be0e7" width="600">
 
 ## Table of Trial Values:
+ <p align="justify">
+For the midterm activity, the group assigned values for the trial joint in MATLAB. The values are assigned ranging from 0% to 100%, 30 as 100%, and -30 as 0%. The values were entered into the MATLAB simulation and automatically generated the corresponding trial position vector utilizing forward kinematics. Afterward, the gathered position vectors for each trial are put into the Python-based Inverse Kinematics Calculator, which the group provided and coded to compute the actual joint variables. Lastly, the computed Actual joint variables from the Python-based calculator are once again entered into the MATLAB simulation to get the Actual position vector. The gathered values are compared to each other to get the comparison of forward kinematics and inverse kinematics.
  <p align="center"> 
 <img src="https://github.com/user-attachments/assets/a26a2be5-c8fc-4a1b-a4ce-42db15ef1ed6" width="1000">
 

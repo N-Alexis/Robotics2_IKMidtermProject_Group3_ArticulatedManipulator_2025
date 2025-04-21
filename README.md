@@ -6,6 +6,7 @@
 ## Parametric Table and Homogeneous Transformation Matrix of Forward Kinematics:
  <p align="center"> 
 <img src="https://github.com/user-attachments/assets/ae3a99d1-b088-4cab-9591-c14f36f770a3" width="800">
+ <p align="center"> 
 <img src="https://github.com/user-attachments/assets/50501fe7-82b6-4ace-855e-efb6c8c33454" width="800">
 
 ## Inverse Kinematics:
@@ -13,6 +14,9 @@
 ## Top View and Front View of Inverse Kinematics:
 
 ## Python Code of the Calculator:
+ <p align="center"> 
+  <img src="https://github.com/user-attachments/assets/6ed55522-40fc-4e26-b13a-033a3d4daf3f" width="600">
+  <img src="https://github.com/user-attachments/assets/7419feec-69fd-4f00-adb0-a8892e0be0e7" width="600">
 
 ## Table of Trial Values:
  <p align="center"> 
@@ -27,7 +31,8 @@ Trial from MATLAB
 <p align="center">
 Trial from Calculator
 <p align="center">
-  
+<img src="https://github.com/user-attachments/assets/a6aded0d-c8ac-4aeb-b602-89a3706bbda6" width="500">
+
 <p align="center">
 Actual from MATLAB
 <p align="center">
@@ -41,6 +46,8 @@ Trial from MATLAB
 
  <p align="center">
 Trial from Calculator
+<p align="center">
+<img src="https://github.com/user-attachments/assets/0b3735e7-315e-4b25-bbc5-e2646df16fdf" width="500">
 
 <p align="center">
 Actual from MATLAB
@@ -55,6 +62,8 @@ Trial from MATLAB
 
 <p align="center">
 Trial from Calculator
+<p align="center">
+<img src="https://github.com/user-attachments/assets/c31497f1-cae2-44bf-aa19-c66feb7dbf86" width="500">
 
 <p align="center">
 Actual from MATLAB
@@ -69,6 +78,8 @@ Trial from MATLAB
 
 <p align="center">
 Trial from Calculator
+<p align="center">
+<img src="https://github.com/user-attachments/assets/326b6576-12b3-45b9-aee6-7e68929edf2c" width="500">
 
 <p align="center">
 Actual from MATLAB
@@ -83,6 +94,8 @@ Trial from MATLAB
 
 <p align="center">
 Trial from Calculator
+<p align="center">
+<img src="https://github.com/user-attachments/assets/4f42b62f-c5eb-4363-b6e7-e6b33b9d6c8c" width="500">
 
 <p align="center">
 Actual from MATLAB

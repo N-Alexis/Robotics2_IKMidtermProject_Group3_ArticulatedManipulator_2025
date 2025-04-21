@@ -19,9 +19,8 @@
 <img src="https://github.com/user-attachments/assets/a26a2be5-c8fc-4a1b-a4ce-42db15ef1ed6" width="1000">
 
 ## Trial # 1 (0%):
-
+<h2 align="center"> Trial from MATLAB </h2>
  <p align="center">
-Trial from MATLAB
 <img src="https://github.com/user-attachments/assets/15b969e1-e5ae-4d6c-bba7-54e407e3e89b" width="500">
 
  <p align="center">

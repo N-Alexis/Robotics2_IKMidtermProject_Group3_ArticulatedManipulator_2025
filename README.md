@@ -15,8 +15,9 @@
 
 ## Python Code of the Calculator:
  <p align="center"> 
-  <img src="https://github.com/user-attachments/assets/6ed55522-40fc-4e26-b13a-033a3d4daf3f" width="600">
-  <img src="https://github.com/user-attachments/assets/7419feec-69fd-4f00-adb0-a8892e0be0e7" width="600">
+  <img src="https://github.com/user-attachments/assets/55feb39b-39c8-4258-a629-3f3805df2ec1" width="600">
+  <img src="https://github.com/user-attachments/assets/4d421c9d-4aab-43ce-9fbb-93ad637a228f" width="600">
+  <img src="https://github.com/user-attachments/assets/c237ecdd-9570-4dac-a8ef-35a96eb61ad3" width="600">
 
 ## Table of Trial Values:
  <p align="justify">
@@ -33,7 +34,7 @@ Trial from MATLAB
 <p align="center">
 Trial from Calculator
 <p align="center">
-<img src="https://github.com/user-attachments/assets/a6aded0d-c8ac-4aeb-b602-89a3706bbda6" width="500">
+<img src="https://github.com/user-attachments/assets/a0082c1c-73be-4843-82f4-a74ceda08abc" width="500">
 
 <p align="center">
 Actual from MATLAB
@@ -49,7 +50,7 @@ Trial from MATLAB
  <p align="center">
 Trial from Calculator
 <p align="center">
-<img src="https://github.com/user-attachments/assets/0b3735e7-315e-4b25-bbc5-e2646df16fdf" width="500">
+<img src="https://github.com/user-attachments/assets/6116307e-66c3-4d20-bf2b-a4f373df07ea" width="500">
 
 <p align="center">
 Actual from MATLAB
@@ -65,8 +66,8 @@ Trial from MATLAB
 <p align="center">
 Trial from Calculator
 <p align="center">
-<img src="https://github.com/user-attachments/assets/c31497f1-cae2-44bf-aa19-c66feb7dbf86" width="500">
-
+<img src="https://github.com/user-attachments/assets/6d45d49e-efe2-4e5b-a43b-355c720182e0" width="500">
+ 
 <p align="center">
 Actual from MATLAB
 <p align="center">
@@ -81,8 +82,8 @@ Trial from MATLAB
 <p align="center">
 Trial from Calculator
 <p align="center">
-<img src="https://github.com/user-attachments/assets/326b6576-12b3-45b9-aee6-7e68929edf2c" width="500">
-
+<img src="https://github.com/user-attachments/assets/20068155-241e-4c00-b89b-aa7ddd99b4d5" width="500">
+ 
 <p align="center">
 Actual from MATLAB
 <p align="center">
@@ -97,8 +98,8 @@ Trial from MATLAB
 <p align="center">
 Trial from Calculator
 <p align="center">
-<img src="https://github.com/user-attachments/assets/4f42b62f-c5eb-4363-b6e7-e6b33b9d6c8c" width="500">
-
+<img src="https://github.com/user-attachments/assets/cc2b5051-8b80-49d5-8dfb-605f726d2ebd" width="500">
+ 
 <p align="center">
 Actual from MATLAB
 <p align="center">

@@ -4,6 +4,9 @@
 ## Forward Kinematics:
 
 ## Parametric Table and Homogeneous Transformation Matrix of Forward Kinematics:
+ <p align="center"> 
+<img src="https://github.com/user-attachments/assets/ae3a99d1-b088-4cab-9591-c14f36f770a3" width="800">
+<img src="https://github.com/user-attachments/assets/50501fe7-82b6-4ace-855e-efb6c8c33454" width="800">
 
 ## Inverse Kinematics:
 

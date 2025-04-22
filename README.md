@@ -106,3 +106,10 @@ Actual from MATLAB
 <img src="https://github.com/user-attachments/assets/f4eb09fa-c230-4a16-8181-7588dca3993a" width="500">
 
 ## Conclusion:
+
+ <p align="justify">  This lab exercise investigated the inverse kinematics of an articulated manipulator, focusing on the procedure of finding joint parameters that result in a specified end-effector position and orientation. The experiment started with building a Parametric Table based on Denavit–Hartenberg (D-H) parameters to model the geometry of the manipulator systematically. This gave us a systematic approach to deriving the Homogeneous Transformation Matrices employed in forward kinematics, allowing us to calculate the pose of the end-effector with respect to the base frame.
+
+By reversing the forward kinematic procedure, we used analytical and/or numerical techniques to solve the inverse kinematics problem. This enabled us to verify the motion of the manipulator for various target positions, while also resolving problems like redundancy, multiple solutions, and singularities.
+
+Overall, this lab emphasized the role of the underpinning concepts of forward and inverse kinematics in controlling motion in robotics. The formal application of D-H parameters and transformation matrices not only simplified the process of modeling but also underlined the mathematical exactness that applies in practical applications of robotics.  </p>
+

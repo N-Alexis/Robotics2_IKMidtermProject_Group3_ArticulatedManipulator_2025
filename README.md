@@ -2,6 +2,8 @@
 <hr>
 
 ## Forward Kinematics:
+<p align="center">
+ <img src="https://github.com/user-attachments/assets/6fbf1ec9-1b48-4e30-b304-93ea3dfc89ea" width="800">
 
 ## Parametric Table and Homogeneous Transformation Matrix of Forward Kinematics:
  <p align="center"> 
@@ -12,6 +14,9 @@
 ## Inverse Kinematics:
 
 ## Top View and Front View of Inverse Kinematics:
+<p align="center">
+<img src="https://github.com/user-attachments/assets/2989fdba-28c3-42ac-bb22-6e33caba42af" width="800">
+
 
 ## Python Code of the Calculator:
  <p align="center"> 

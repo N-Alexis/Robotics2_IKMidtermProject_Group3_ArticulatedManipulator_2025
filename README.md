@@ -19,10 +19,71 @@
 
 
 ## Python Code of the Calculator:
- <p align="center"> 
-  <img src="https://github.com/user-attachments/assets/55feb39b-39c8-4258-a629-3f3805df2ec1" width="600">
-  <img src="https://github.com/user-attachments/assets/4d421c9d-4aab-43ce-9fbb-93ad637a228f" width="600">
-  <img src="https://github.com/user-attachments/assets/c237ecdd-9570-4dac-a8ef-35a96eb61ad3" width="600">
+  ```
+### Inverse Kinematics of an Articulated Manipulator 
+
+import numpy as np
+
+# intro
+
+print("╭" + "─" * 40 + "╮")
+print("│{:^42}│".format("⚙️   ARTICULATED MANIPULATOR   ⚙️"))
+print("│{:^40}│".format("Inverse Kinematics Calculator"))
+print("╰" + "─" * 40 + "╯\n")
+
+# link lengths in mm
+print("Enter the value of the following link lengths:")
+a1 = float(input("a1 = "))
+a2 = float(input("a2 = "))
+a3 = float(input("a3 = "))
+print()
+
+# Position Vector in mm
+print("Enter the value of the following position vectors:")
+x0_3 = float(input("x0_3 = "))
+y0_3 = float(input("y0_3 = "))
+z0_3 = float(input("z0_3 = "))
+print()
+
+# Inverse Kinematic Solutions using Graphical Method
+
+# Solution 1
+theta1 = np.arctan(y0_3/x0_3)
+theta1 = theta1*180/np.pi
+
+# Solution 2
+r1 = np.sqrt((y0_3**2)+(x0_3**2))
+
+# Solution 3
+r2 = z0_3-a1
+
+# Solution 4
+phi1 = np.arctan(r2/r1)
+phi1 = phi1*180/np.pi
+
+# Solution 5
+r3 = np.sqrt((r2**2)+(r1**2))
+
+# Solution 6
+phi2 = np.arccos((a3**2-a2**2-r3**2)/(-2*r3*a2))
+phi2 = phi2*180/np.pi
+
+# Solution 7
+theta2 = phi1 + phi2
+
+# Solution 8
+phi3 = np.arccos((r3**2-a2**2-a3**2)/(-2*a2*a3))
+phi3 = phi3*180/np.pi
+
+# Solution 9
+theta3 = phi3 - 180
+
+# Displaying the Joint Variables
+print("The following are the resulting joint variables:")
+print("theta1 = ", np.around(theta1,3))
+print("theta2 = ", np.around(theta2,3))
+print("theta3 = ", np.around(theta3,3))
+```
 
 ## Table of Trial Values:
  <p align="justify">

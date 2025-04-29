@@ -100,7 +100,7 @@ Trial from MATLAB
 <p align="center">
 Trial from Calculator
 <p align="center">
-<img src="https://github.com/user-attachments/assets/a0082c1c-73be-4843-82f4-a74ceda08abc" width="500">
+<img src="https://github.com/user-attachments/assets/570822f9-4bd8-4812-8cb0-2d80e2806085" width="500">
 
 <p align="center">
 Actual from MATLAB
@@ -116,7 +116,7 @@ Trial from MATLAB
  <p align="center">
 Trial from Calculator
 <p align="center">
-<img src="https://github.com/user-attachments/assets/6116307e-66c3-4d20-bf2b-a4f373df07ea" width="500">
+<img src="https://github.com/user-attachments/assets/b750568c-eacb-49ca-bd37-1966c0f045ee" width="500">
 
 <p align="center">
 Actual from MATLAB
@@ -132,8 +132,8 @@ Trial from MATLAB
 <p align="center">
 Trial from Calculator
 <p align="center">
-<img src="https://github.com/user-attachments/assets/6d45d49e-efe2-4e5b-a43b-355c720182e0" width="500">
- 
+<img src="https://github.com/user-attachments/assets/89f23c9b-3a12-47a2-9c43-255cc3f8ebc9" width="500">
+
 <p align="center">
 Actual from MATLAB
 <p align="center">
@@ -148,8 +148,8 @@ Trial from MATLAB
 <p align="center">
 Trial from Calculator
 <p align="center">
-<img src="https://github.com/user-attachments/assets/20068155-241e-4c00-b89b-aa7ddd99b4d5" width="500">
- 
+<img src="https://github.com/user-attachments/assets/50c27177-7993-4ea7-b65f-d34436e0ac56" width="500">
+
 <p align="center">
 Actual from MATLAB
 <p align="center">
@@ -164,8 +164,8 @@ Trial from MATLAB
 <p align="center">
 Trial from Calculator
 <p align="center">
-<img src="https://github.com/user-attachments/assets/cc2b5051-8b80-49d5-8dfb-605f726d2ebd" width="500">
- 
+<img src="https://github.com/user-attachments/assets/0f1c6ed3-125f-41ae-a9d2-3ea9259eb1a9" width="500">
+
 <p align="center">
 Actual from MATLAB
 <p align="center">

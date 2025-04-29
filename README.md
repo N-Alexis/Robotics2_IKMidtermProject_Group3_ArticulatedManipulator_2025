@@ -12,6 +12,9 @@
 <img src="https://github.com/user-attachments/assets/50501fe7-82b6-4ace-855e-efb6c8c33454" width="800">
 
 ## Inverse Kinematics:
+<p align="center">
+<img src="https://github.com/user-attachments/assets/94b900e3-b528-42aa-bc16-f42a43b63087" width="800">
+
 
 ## Top View and Front View of Inverse Kinematics:
 <p align="center">
